@@ -1,0 +1,36 @@
+# OctoAcme Project Management Knowledge Base Summary
+
+This document is a quick team-facing summary of the repository and its intended use.
+
+## Overview
+This knowledge base captures the team’s operating model for cross-functional project delivery. It is intentionally practical, lightweight, and designed to improve clarity without adding bureaucracy.
+
+## Lifecycle
+- Initiation: align on problem, stakeholders, and early success metrics.
+- Planning: define scope, milestones, backlog, and responsibilities.
+- Execution: build with rhythm, quality checks, and visible blockers.
+- Release: validate readiness and communicate clearly.
+- Retrospective: capture learning and convert it to action.
+
+## Roles
+- Product lead defines outcomes and priorities.
+- Project manager coordinates planning, execution, and communication.
+- Engineers deliver and validate implementation.
+- Stakeholders provide decisions, inputs, and approvals.
+
+## Standard tools
+- One-pager / project charter
+- Risk register
+- Backlog with acceptance criteria
+- Weekly status communication
+- Retrospective action items
+
+## Recommended practices
+- Keep artifacts visible in the project repo.
+- Review the team’s process docs during planning and retrospectives.
+- Update the knowledge base when practices materially change.
+
+## Repository links
+- GitHub repository: https://github.com/mkrayzie/octoacme-knowledge-base
+- Documentation index: docs/index.md
+
